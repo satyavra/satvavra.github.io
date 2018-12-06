@@ -1,0 +1,13 @@
+body{
+	background: url(clothe.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 color: #505050;
+	 font-family: courier new;
+	 font-size: 30px;
+	 margin-top: 200px;
+}
+p{
+	font-size:40px;
+	color: blue;
+}
